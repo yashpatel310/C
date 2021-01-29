@@ -748,7 +748,7 @@ float moneyWithdraw(float balance) {
 void menuExit() {
     printf("--------------Take your receipt!!!------------------\n");
     printf("-----Thank you for using ATM Banking Machine!!!-----\n");
-    printf("-----      Brought To by code-projects.org      -----\n");
+    printf("-----      Yash Banking Management System      -----\n");
     
     
 }//exit menu
